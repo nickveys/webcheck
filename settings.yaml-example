@@ -1,0 +1,5 @@
+user: user@gmail.com
+pass: gmail_Passw0rd
+urls:
+ - http://example1.com
+ - http://example2.com
